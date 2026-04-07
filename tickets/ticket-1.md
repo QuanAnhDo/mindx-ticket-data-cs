@@ -11,7 +11,7 @@
 
 Dear các anh chị trong Team!
 
-Hiện tại Khách hàng thanh toán chuyển khoản học phí vào ngàuo2/03/2026. Tuy nhiên do lượng HV trải nghiệm nhiều lại vào cuối tuần nên Sale chưa kịp lên Oder trên CRM. Nhờ anh chị trong Team lùi ngày Oder sang ngày 20/03 giúp em với ạ
+Hiện tại Khách hàng thanh toán chuyển khoản học phí vào ngày 02/03/2026. Tuy nhiên do lượng HV trải nghiệm nhiều lại vào cuối tuần nên Sale chưa kịp lên Oder trên CRM. Nhờ anh chị trong Team lùi ngày Oder sang ngày 20/03 giúp em với ạ
 
 ### Context
 
@@ -44,7 +44,7 @@ https://crm.mindx.edu.vn/leads?notificationId=%2269c21c01423f31001d34622f%22&scr
     "github_link": "https://github.com/QuanAnhDo/mindx-ticket-data-cs/issues/1"
   },
   "content": {
-    "description": "Dear các anh chị trong Team!\n\nHiện tại Khách hàng thanh toán chuyển khoản học phí vào ngàuo2/03/2026. Tuy nhiên do lượng HV trải nghiệm nhiều lại vào cuối tuần nên Sale chưa kịp lên Oder trên CRM. Nhờ anh chị trong Team lùi ngày Oder sang ngày 20/03 giúp em với ạ",
+    "description": "Dear các anh chị trong Team!\n\nHiện tại Khách hàng thanh toán chuyển khoản học phí vào ngày 02/03/2026. Tuy nhiên do lượng HV trải nghiệm nhiều lại vào cuối tuần nên Sale chưa kịp lên Oder trên CRM. Nhờ anh chị trong Team lùi ngày Oder sang ngày 20/03 giúp em với ạ",
     "context": "Dear BU,\n\nMình là Quân - nhân sự Tech Team đang trực tiếp tiếp nhận và xử lý theo yêu cầu của bạn.\n\nHiện tại việc lùi ngày order thì bạn đang chưa được phân quyền để thực hiện. Do đó Tech Team đã cập nhật lại ngày 20/03 theo yêu cầu của bạn trên hệ thống.Bạn có thể truy cập lại và kiểm tra trên hệ thống nhé.\n\nTech Team rất mong nhận được sự phản hồ đánh giá từ bạn  và luôn tiếp nhận mọi yêu cầu từ bạn ạ.\n\nTrân trọng,\nQuân\nTech Team",
     "odoo_link": ""
   }
