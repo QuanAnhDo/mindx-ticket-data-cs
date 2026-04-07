@@ -12,3 +12,4 @@ Lưu trữ dữ liệu xử lý ticket
 * [**Ticket #10: Lỗi Enroll học viên**](tickets/ticket-10.md)
 * [**Ticket #11: Enroll HV**](tickets/ticket-11.md)
 * [**Ticket #12: BU Cần Thơ - Hỗ trợ enroll học viên**](tickets/ticket-12.md)
+* [**Ticket #13: Enroll học viên**](tickets/ticket-13.md)
