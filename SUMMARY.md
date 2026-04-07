@@ -16,3 +16,4 @@
   * [Ticket #13: Enroll học viên](tickets/ticket-13.md)
   * [Ticket #14: Lỗi không active và không mở slot được](tickets/ticket-14.md)
   * [Ticket #15: Xóa phiếu bảo lưu](tickets/ticket-15.md)
+  * [Ticket #16: Không add được bé vô LMS (#03303)](tickets/ticket-16.md)
