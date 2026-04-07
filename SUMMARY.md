@@ -6,3 +6,4 @@
   * [Ticket #3: KHÔNG ADD ĐƯỢC HỌC VIÊN VÀO LỚP (#02105)](tickets/ticket-3.md)
   * [Ticket #4: NHỜ TEAM CHECK GIÚP BỘ TIÊU CHÍ NHẬN XÉT CỦA KHOÁ HỌC XART-VCI](tickets/ticket-4.md)
   * [Ticket #5: Sửa lại ngày Oder](tickets/ticket-5.md)
+  * [Ticket #6: NHỜ FIX LẠI NGÀY ĐỀ ADD PAYMENT](tickets/ticket-6.md)
