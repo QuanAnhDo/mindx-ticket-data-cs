@@ -7,3 +7,4 @@ Lưu trữ dữ liệu xử lý ticket
 * [**Ticket #5: Sửa lại ngày Oder**](tickets/ticket-5.md)
 * [**Ticket #6: NHỜ FIX LẠI NGÀY ĐỀ ADD PAYMENT**](tickets/ticket-6.md)
 * [**Ticket #7: LMS KHÔNG HIỂN THỊ SLOT ENROLL (#03263)**](tickets/ticket-7.md)
+* [**Ticket #8: Hỗ trợ ghi nhận add payment và sửa lỗi mã 100% ord**](tickets/ticket-8.md)
