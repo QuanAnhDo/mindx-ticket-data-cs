@@ -12,3 +12,4 @@
   * [Ticket #9: BU Tây Hạnh không thấy được học phần của học viên Đoàn Ngọc Hải Minh](tickets/ticket-9.md)
   * [Ticket #10: Lỗi Enroll học viên](tickets/ticket-10.md)
   * [Ticket #11: Enroll HV](tickets/ticket-11.md)
+  * [Ticket #12: BU Cần Thơ - Hỗ trợ enroll học viên](tickets/ticket-12.md)
