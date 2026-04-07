@@ -10,3 +10,4 @@ Lưu trữ dữ liệu xử lý ticket
 * [**Ticket #8: Hỗ trợ ghi nhận add payment và sửa lỗi mã 100% ord**](tickets/ticket-8.md)
 * [**Ticket #9: BU Tây Hạnh không thấy được học phần của học viên Đoàn Ngọc Hải Minh**](tickets/ticket-9.md)
 * [**Ticket #10: Lỗi Enroll học viên**](tickets/ticket-10.md)
+* [**Ticket #11: Enroll HV**](tickets/ticket-11.md)
