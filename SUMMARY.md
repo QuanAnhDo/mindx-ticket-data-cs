@@ -26,3 +26,4 @@
   * [Ticket #23: With draw học viên Nguyễn Trường Dũng ra khỏi mã lớp HDT-XART-GDI18 (#03470)](tickets/ticket-23.md)
   * [Ticket #24: SAI TÊN HỌC VIÊN TRÊN CRM (#03510)](tickets/ticket-24.md)
   * [Ticket #25: Add học viên nhưng LMS báo lỗi (#03551)](tickets/ticket-25.md)
+  * [Ticket #26: CRM không gọi được bằng máy tính (#03553)](tickets/ticket-26.md)
