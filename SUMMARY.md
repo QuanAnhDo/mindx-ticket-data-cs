@@ -34,3 +34,4 @@
   * [Ticket #31: LMS KHÔNG HIỂN THỊ SLOT ENROLL (#03263)](tickets/ticket-31.md)
   * [Ticket #32: Hỗ trợ ghi nhận add payment và sửa lỗi mã 100% order (#03270)](tickets/ticket-32.md)
   * [Ticket #33: Lỗi Không cập nhật được thông tin học viên (#03281)](tickets/ticket-33.md)
+  * [Ticket #34: Không add được bé vô LMS (#03303)](tickets/ticket-34.md)
