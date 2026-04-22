@@ -29,3 +29,4 @@ Lưu trữ dữ liệu xử lý ticket
 * [**Ticket #27: Lớp không học nhưng lỡ điểm danh (#03624)**](tickets/ticket-27.md)
 * [**Ticket #28: Lỗi đăng nhập tài khoản (#03635)**](tickets/ticket-28.md)
 * [**Ticket #29: Tài khoản Denise không đăng nhập được (#03197)**](tickets/ticket-29.md)
+* [**Ticket #30: LỖI ENROLL HỌC VIÊN (#03242)**](tickets/ticket-30.md)
