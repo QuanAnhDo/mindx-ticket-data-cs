@@ -27,3 +27,4 @@
   * [Ticket #24: SAI TÊN HỌC VIÊN TRÊN CRM (#03510)](tickets/ticket-24.md)
   * [Ticket #25: Add học viên nhưng LMS báo lỗi (#03551)](tickets/ticket-25.md)
   * [Ticket #26: CRM không gọi được bằng máy tính (#03553)](tickets/ticket-26.md)
+  * [Ticket #27: Lớp không học nhưng lỡ điểm danh (#03624)](tickets/ticket-27.md)
