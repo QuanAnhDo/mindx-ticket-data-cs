@@ -35,3 +35,4 @@ Lưu trữ dữ liệu xử lý ticket
 * [**Ticket #33: Lỗi Không cập nhật được thông tin học viên (#03281)**](tickets/ticket-33.md)
 * [**Ticket #34: Không add được bé vô LMS (#03303)**](tickets/ticket-34.md)
 * [**Ticket #35: CHUYỂN ĐỔI PHÂN QUYỀN LỚP HỌC (#03313)**](tickets/ticket-35.md)
+* [**Ticket #36: BU PXL - HỖ TRỢ XÓA LỊCH HỌC (#03304)**](tickets/ticket-36.md)
