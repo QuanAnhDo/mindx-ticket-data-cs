@@ -35,3 +35,4 @@
   * [Ticket #32: Hỗ trợ ghi nhận add payment và sửa lỗi mã 100% order (#03270)](tickets/ticket-32.md)
   * [Ticket #33: Lỗi Không cập nhật được thông tin học viên (#03281)](tickets/ticket-33.md)
   * [Ticket #34: Không add được bé vô LMS (#03303)](tickets/ticket-34.md)
+  * [Ticket #35: CHUYỂN ĐỔI PHÂN QUYỀN LỚP HỌC (#03313)](tickets/ticket-35.md)
