@@ -22,3 +22,4 @@
   * [Ticket #19: LỖI TRUY CẬP ENROLLMENTS (#03349)](tickets/ticket-19.md)
   * [Ticket #20: ENROLL HỌC VIÊN (#03373)](tickets/ticket-20.md)
   * [Ticket #21: Không có nút tạo drop out (#03359)](tickets/ticket-21.md)
+  * [Ticket #22: [18+HCM] HỖ TRỢ ENROLL HỌC VIÊN (#03436)](tickets/ticket-22.md)
