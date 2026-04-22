@@ -17,3 +17,4 @@ Lưu trữ dữ liệu xử lý ticket
 * [**Ticket #15: Xóa phiếu bảo lưu**](tickets/ticket-15.md)
 * [**Ticket #16: Không add được bé vô LMS (#03303)**](tickets/ticket-16.md)
 * [**Ticket #17: CHUYỂN ĐỔI PHÂN QUYỀN LỚP HỌC (#03313)**](tickets/ticket-17.md)
+* [**Ticket #18: NHỜ TEAM HỖ TRỢ FIX LỖI KHÔNG THÊM ĐƯỢC HV VÀO LỚP (#03340)**](tickets/ticket-18.md)
