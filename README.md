@@ -23,3 +23,4 @@ Lưu trữ dữ liệu xử lý ticket
 * [**Ticket #21: Không có nút tạo drop out (#03359)**](tickets/ticket-21.md)
 * [**Ticket #22: [18+HCM] HỖ TRỢ ENROLL HỌC VIÊN (#03436)**](tickets/ticket-22.md)
 * [**Ticket #23: With draw học viên Nguyễn Trường Dũng ra khỏi mã lớp HDT-XART-GDI18 (#03470)**](tickets/ticket-23.md)
+* [**Ticket #24: SAI TÊN HỌC VIÊN TRÊN CRM (#03510)**](tickets/ticket-24.md)
