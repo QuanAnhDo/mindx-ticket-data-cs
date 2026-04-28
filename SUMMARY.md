@@ -44,3 +44,4 @@
   * [Ticket #41: Lớp không hiển thị Request Teacher](tickets/ticket-41.md)
   * [Ticket #42: Không chuyển được trạng thái LEAD](tickets/ticket-42.md)
   * [Ticket #43: Hỗ trợ đăng nhập](tickets/ticket-43.md)
+  * [Ticket #44: Phần mềm chấm công](tickets/ticket-44.md)
