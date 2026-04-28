@@ -45,3 +45,4 @@ Lưu trữ dữ liệu xử lý ticket
 * [**Ticket #43: Hỗ trợ đăng nhập**](tickets/ticket-43.md)
 * [**Ticket #44: Phần mềm chấm công**](tickets/ticket-44.md)
 * [**Ticket #45: Hỗ trợ fix số tiền trên hợp đồng về đúng giá trị**](tickets/ticket-45.md)
+* [**Ticket #46: Học viên bị sai tên lead**](tickets/ticket-46.md)
