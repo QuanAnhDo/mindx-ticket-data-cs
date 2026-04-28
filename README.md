@@ -40,3 +40,4 @@ Lưu trữ dữ liệu xử lý ticket
 * [**Ticket #38: Không tính chỉ số uncomplete**](tickets/ticket-38.md)
 * [**Ticket #39: Fix giá**](tickets/ticket-39.md)
 * [**Ticket #40: Học viên chuyển khối**](tickets/ticket-40.md)
+* [**Ticket #41: Lớp không hiển thị Request Teacher**](tickets/ticket-41.md)
