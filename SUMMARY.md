@@ -47,3 +47,4 @@
   * [Ticket #44: Phần mềm chấm công](tickets/ticket-44.md)
   * [Ticket #45: Hỗ trợ fix số tiền trên hợp đồng về đúng giá trị](tickets/ticket-45.md)
   * [Ticket #46: Học viên bị sai tên lead](tickets/ticket-46.md)
+  * [Ticket #47: Lỗi không thêm thanh toán được ở mục order](tickets/ticket-47.md)
