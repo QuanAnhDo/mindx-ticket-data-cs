@@ -47,3 +47,4 @@ Lưu trữ dữ liệu xử lý ticket
 * [**Ticket #45: Hỗ trợ fix số tiền trên hợp đồng về đúng giá trị**](tickets/ticket-45.md)
 * [**Ticket #46: Học viên bị sai tên lead**](tickets/ticket-46.md)
 * [**Ticket #47: Lỗi không thêm thanh toán được ở mục order**](tickets/ticket-47.md)
+* [**Ticket #48: CRM lỗi ngày chi trả (nhờ hỗ trợ fix lại ngày mong muốn)**](tickets/ticket-48.md)
