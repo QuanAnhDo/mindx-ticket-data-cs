@@ -41,3 +41,4 @@ Lưu trữ dữ liệu xử lý ticket
 * [**Ticket #39: Fix giá**](tickets/ticket-39.md)
 * [**Ticket #40: Học viên chuyển khối**](tickets/ticket-40.md)
 * [**Ticket #41: Lớp không hiển thị Request Teacher**](tickets/ticket-41.md)
+* [**Ticket #42: Không chuyển được trạng thái LEAD**](tickets/ticket-42.md)
