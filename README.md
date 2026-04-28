@@ -38,3 +38,4 @@ Lưu trữ dữ liệu xử lý ticket
 * [**Ticket #36: BU PXL - HỖ TRỢ XÓA LỊCH HỌC (#03304)**](tickets/ticket-36.md)
 * [**Ticket #37: Dời lịch lớp**](tickets/ticket-37.md)
 * [**Ticket #38: Không tính chỉ số uncomplete**](tickets/ticket-38.md)
+* [**Ticket #39: Fix giá**](tickets/ticket-39.md)
