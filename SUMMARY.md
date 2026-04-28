@@ -37,3 +37,4 @@
   * [Ticket #34: Không add được bé vô LMS (#03303)](tickets/ticket-34.md)
   * [Ticket #35: CHUYỂN ĐỔI PHÂN QUYỀN LỚP HỌC (#03313)](tickets/ticket-35.md)
   * [Ticket #36: BU PXL - HỖ TRỢ XÓA LỊCH HỌC (#03304)](tickets/ticket-36.md)
+  * [Ticket #37: Dời lịch lớp](tickets/ticket-37.md)
